@@ -164,9 +164,11 @@ button {
   width: auto;
   margin-right: 50px;
 }
-@media(max-width:420px){
+@media(max-width:520px){
   .logo{
     margin: 0;
+    height: 65px;
+    width: auto;
   }
 }
 
@@ -187,9 +189,9 @@ button {
   color: #00cc66;
   animation: fade 1s linear;
 }
-@media(max-width:520px){
+@media(max-width:500px){
   .pageHeaderHome{
-    font-size: 1.2rem;
+    font-size: 1.8rem;
     text-align: center;
   }
 }
