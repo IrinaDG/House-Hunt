@@ -187,6 +187,18 @@ button {
   color: #00cc66;
   animation: fade 1s linear;
 }
+@media(max-width:520px){
+  .pageHeaderHome{
+    font-size: 1.2rem;
+    text-align: center;
+  }
+}
+
+.subtitle{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
 
 .pageHeaderOffers{
   font-size: 2.5rem;
@@ -427,7 +439,7 @@ button {
   left: 8px;
   font-weight: 600;
   max-width: 90%;
-  font-size: 1.25rem;
+  font-size: 1.1rem;
   border-radius: 15px;
   background-color: rgba(143, 141, 141, 0.561);
   padding: 0.5rem;
@@ -444,8 +456,9 @@ button {
 .swiperSlidePrice {
   color: #00cc66;
   position: absolute;
-  top: 70px;
+  top: 75px;
   left: 10px;
+  font-size: 15px;
   font-weight: 600;
   max-width: 90%;
   background-color: #ffffffc2;

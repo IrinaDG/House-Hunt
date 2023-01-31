@@ -1,5 +1,11 @@
+# House Hunt-_Dream Homes_
 
-# Getting Started with Create React App
+### A house marketplace for renting or selling venues.
+
+### You can see the live version here: [House Hunt](https://house-hunt-dream-homes.vercel.app/)
+
+
+## How to use
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

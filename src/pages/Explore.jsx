@@ -13,7 +13,7 @@ function Explore() {
         <Link to="/">
           <img className="logo" src={logo} alt="logo" />
         </Link>
-        <p className="pageHeaderHome">Welcome to House Hunt!</p>
+        <p className="pageHeaderHome"> Welcome to House Hunt!</p> 
       </header>
       <main>
         <Slider />
